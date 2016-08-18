@@ -3,6 +3,14 @@
     padding-bottom: 20px;
 }
 
+.navbar-inverse{
+    background-color: #5e5858;
+    border-color: #080808;
+}
+.navbar-inverse .navbar-brand{
+    color: #ff0000;
+}
+
 /* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
@@ -21,4 +29,24 @@ input,
 select,
 textarea {
     max-width: 280px;
+}
+
+th{
+    color: indigo;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+div.row div.col-xs-12.col-md-8 ul li a{
+ color: indigo;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+h2{
+    font-family:'Copperplate Gothic';
+    font-weight:500;
+    color:#1529c7;
 }
