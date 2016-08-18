@@ -9,6 +9,7 @@ using System.Web;
 using System.Web.Mvc;
 using COMP2006_S2016_FinalExamV2.Models;
 
+// Artist controller
 namespace COMP2006_S2016_FinalExamV2.Controllers
 {
     public class ArtistsController : Controller
